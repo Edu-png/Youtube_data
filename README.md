@@ -79,7 +79,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 6. Documentação e Relatório:
 
 - Geração de relatórios com insights e análises detalhadas.
-- 
+
 ## 🛠️ Tecnologias Utilizadas
 - Python: Linguagem de programação utilizada.
 - YouTube API: Ferramenta para coleta de dados do YouTube.
