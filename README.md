@@ -33,7 +33,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 3. Instale as dependências necessárias:
       ```
       pip install -r requirements.txt
-##📌 Uso
+## 📌 Uso
 1. Configure os parâmetros necessários no arquivo de configuração (caso necessário).
 
 2. Execute o script principal para iniciar o processo de coleta de dados:
@@ -53,7 +53,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
       ├── requirements.txt       # Dependências
       └── README.md              # Documentação do projeto
 
-##🔄 Pipeline
+## 🔄 Pipeline
 1. Coleta de Dados:
 
 - Utilização da API do YouTube ou técnicas de web scraping para obter informações sobre vídeos.
@@ -91,7 +91,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 ## 📝 Considerações Finais
 O projeto "YouTube Data Analysis" oferece uma visão abrangente sobre o comportamento do público e a performance dos vídeos no YouTube. Com uma análise detalhada dos dados, é possível obter insights valiosos para otimizar estratégias de conteúdo e engajamento.
 
-📞 Contato
+## 📞 Contato
 LinkedIn: Eduardo Coqueiro
 Site: Eduardo Coqueiro
 Kaggle: Eduardo Coqueiro
