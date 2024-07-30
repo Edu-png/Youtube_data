@@ -33,6 +33,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 3. Instale as dependências necessárias:
       ```
       pip install -r requirements.txt
+      
 ## 📌 Uso
 1. Configure os parâmetros necessários no arquivo de configuração (caso necessário).
 
@@ -58,7 +59,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 
 - Utilização da API do YouTube ou técnicas de web scraping para obter informações sobre vídeos.
 - Extração de metadados, como títulos, descrições, visualizações, likes, comentários, entre outros.
-- 
+  
 2. Parsing de Dados:
 
 - Processamento dos dados obtidos para estruturar as informações de forma organizada.
@@ -66,7 +67,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 3. Limpeza de Dados:
 
 - Remoção de duplicatas, tratamento de dados ausentes e normalização dos formatos.
-- 
+  
 4. Armazenamento de Dados:
 
 - Salvamento dos dados estruturados em formatos convenientes (CSV, JSON, etc.) na pasta data/.
@@ -92,6 +93,7 @@ Para instalar e executar o projeto localmente, siga os passos abaixo:
 O projeto "YouTube Data Analysis" oferece uma visão abrangente sobre o comportamento do público e a performance dos vídeos no YouTube. Com uma análise detalhada dos dados, é possível obter insights valiosos para otimizar estratégias de conteúdo e engajamento.
 
 ## 📞 Contato
-LinkedIn: Eduardo Coqueiro
-Site: Eduardo Coqueiro
-Kaggle: Eduardo Coqueiro
+- **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
+- **Site:** [Eduardo Coqueiro](https://dataguy.my.canva.site/eduardo-coqueiro)
+- **Kaggle:** [Eduardo Coqueiro](https://www.kaggle.com/eduardocoqueiro)
+
